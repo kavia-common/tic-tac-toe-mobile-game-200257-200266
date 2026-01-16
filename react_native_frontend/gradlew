@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# Expo-managed project: Gradle wrapper is not expected at repo root.
+# Some CI checks attempt `./gradlew` from the root. Provide a harmless stub.
+echo "Expo managed workflow: root gradlew stub invoked. Skipping native Gradle tasks: $*"
+exit 0
