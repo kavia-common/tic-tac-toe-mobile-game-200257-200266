@@ -1,0 +1,4 @@
+{
+    "command": "npm run web -- --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-mobile-game-200257-200266/react_native_frontend"
+}
